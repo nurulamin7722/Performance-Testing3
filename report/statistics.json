@@ -1,0 +1,50 @@
+{
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4582.241000000002,
+    "medianResTime" : 4412.0,
+    "minResTime" : 273.0,
+    "maxResTime" : 14030.0,
+    "pct1ResTime" : 8364.9,
+    "pct2ResTime" : 9314.349999999999,
+    "pct3ResTime" : 10524.77,
+    "throughput" : 58.33965346245843,
+    "receivedKBytesPerSec" : 99.62122524210957,
+    "sentKBytesPerSec" : 25.63754302549443
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4582.241000000002,
+    "medianResTime" : 4412.0,
+    "minResTime" : 273.0,
+    "maxResTime" : 14030.0,
+    "pct1ResTime" : 8364.9,
+    "pct2ResTime" : 9314.349999999999,
+    "pct3ResTime" : 10524.77,
+    "throughput" : 61.38358602909582,
+    "receivedKBytesPerSec" : 104.81906708458658,
+    "sentKBytesPerSec" : 26.975208704192497
+  },
+  "https://reqres.in/api/users?page=2" : {
+    "transaction" : "https://reqres.in/api/users?page=2",
+    "sampleCount" : 1000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 4582.241000000002,
+    "medianResTime" : 4412.0,
+    "minResTime" : 273.0,
+    "maxResTime" : 14030.0,
+    "pct1ResTime" : 8364.9,
+    "pct2ResTime" : 9314.349999999999,
+    "pct3ResTime" : 10524.77,
+    "throughput" : 61.38358602909582,
+    "receivedKBytesPerSec" : 104.81906708458658,
+    "sentKBytesPerSec" : 26.975208704192497
+  }
+}
